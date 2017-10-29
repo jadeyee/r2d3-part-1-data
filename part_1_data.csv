@@ -1,5 +1,3 @@
-# This dataset was collected for A Visual Introduction to Machine Learning (http://www.r2d3.us). It is available under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-nc-sa/4.0/).  We hope it helps you practice different data analysis and visualization techniques. ONE REQUEST: Please do not use this data to make any conclusions about the New York or San Francisco real estate markets. This data was collected with learning, not inference, in mind. :-)
-#
 in_sf,beds,bath,price,year_built,sqft,price_per_sqft,elevation
 0,2,1,999000,1960,1000,999,10
 0,2,2,2750000,2006,1418,1939,0
